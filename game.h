@@ -20,7 +20,7 @@
 typedef struct Difficulty
 {
     int row;                       // 行数
-    int col;                       // 列数
+    int col;                       
     int mine_count;                // 雷数
 } Difficulty;
 
